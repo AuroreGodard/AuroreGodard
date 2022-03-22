@@ -40,4 +40,4 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=AuroreGodard&show_icons=true)
+![AuroreGodard GitHub stats](https://github-readme-stats.vercel.app/api?username=AuroreGodard&show_icons=true&theme=radical)
